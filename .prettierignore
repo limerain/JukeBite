@@ -1,0 +1,8 @@
+build
+coverage
+# .eslintrc.json
+.husky/pre-commit
+# .lintstagedrc.json
+.prettierignore
+bun.lockb
+README.md
